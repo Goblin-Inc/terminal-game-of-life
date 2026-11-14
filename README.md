@@ -1,12 +1,14 @@
 # Terminal Game of Life (Relax Sandbox)
 
-Консольная симуляция клеточного автомата **«Игра Жизнь» (Conway's Game of Life)** на **Python**.
+> 🌐 **Language:** **English** | [Русский (README_Ru.md)](README_Ru.md)
 
-## ✨ Возможности
-- 🧬 **Тороидальная сетка во весь терминал** — автоматически подстраивается под размер окна консоли.
-- 🔄 **Плавная смена поколений** — классические правила рождения и выживания клеток с генерацией случайных начальных состояний.
+A terminal-based cellular automaton simulation of **Conway's Game of Life** written in **Python**.
 
-## 🚀 Запуск
+## ✨ Features
+- 🧬 **Full-Terminal Toroidal Grid** — automatically adapts to your current terminal window dimensions.
+- 🔄 **Smooth Generation Stepping** — classic cellular birth and survival rules with randomized initial seeding.
+
+## 🚀 Usage
 
 ```bash
 python3 life.py
