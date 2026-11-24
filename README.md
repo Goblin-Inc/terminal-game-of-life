@@ -13,3 +13,6 @@ A terminal-based cellular automaton simulation of **Conway's Game of Life** writ
 ```bash
 python3 life.py
 ```
+
+## 📄 License
+MIT © [Goblin-Inc](https://github.com/Goblin-Inc)
